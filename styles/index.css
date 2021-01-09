@@ -375,3 +375,14 @@ body {
 nav{
     box-shadow:2px 4px 5px -1px;
 }
+#features{
+    background-image: url("assets/CHANGED JPEG File 2.jpg");
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+border:2px solid black;
+}
+.btn:hover{
+transform:translateY(-10px);
+box-shadow:2px 4px 5px -2px black;
+}
