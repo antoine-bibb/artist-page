@@ -3,6 +3,7 @@
 }
 
 body {
+    max-width: 100%;
     font-family: Helvetica, Arial;
     margin: 0;
     background-color: #ffeff5;
